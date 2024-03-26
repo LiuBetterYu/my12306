@@ -13,6 +13,8 @@
     </description>
     <modules>
         <module>dependencies</module>
+        <module>frameworks</module>
+        <module>service</module>
     </modules>
 
     <properties>
